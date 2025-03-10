@@ -1,10 +1,8 @@
-# Hello World Git/GitHub
+# Git/GitHub
 
 What is Git and GitHub?
 What is their diffrence?
-I'm new for this!
 
-## Lets Go!
 ## What is Git?
 Git is a popular free and open source version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
 
